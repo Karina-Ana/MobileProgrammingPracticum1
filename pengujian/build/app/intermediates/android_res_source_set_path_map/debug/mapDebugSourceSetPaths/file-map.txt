@@ -1,0 +1,7 @@
+com.example.pengujian.app-debug-0 C:\Users\KARINA\StudioProjects\pengujian\android\app\src\debug\res
+com.example.pengujian.app-main-1 C:\Users\KARINA\StudioProjects\pengujian\android\app\src\main\res
+com.example.pengujian.app-pngs-2 C:\Users\KARINA\StudioProjects\pengujian\build\app\generated\res\pngs\debug
+com.example.pengujian.app-updated_navigation_xml-3 C:\Users\KARINA\StudioProjects\pengujian\build\app\generated\updated_navigation_xml\debug
+com.example.pengujian.app-packageDebugResources-4 C:\Users\KARINA\StudioProjects\pengujian\build\app\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.pengujian.app-packageDebugResources-5 C:\Users\KARINA\StudioProjects\pengujian\build\app\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.pengujian.app-debug-6 C:\Users\KARINA\StudioProjects\pengujian\build\app\intermediates\merged_res\debug\mergeDebugResources
